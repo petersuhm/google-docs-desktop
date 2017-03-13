@@ -1,0 +1,19 @@
+{
+  "name": "google-docs-desktop",
+  "version": "0.0.1",
+  "description": "A simple desktop wrapper for Google Docs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/petersuhm/google-docs-desktop",
+  "keywords": [
+    "Electron",
+    "Google Docs",
+  ],
+  "author": "Peter Suhm <peter@suhm.dk>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}

@@ -1,3 +1,3 @@
-# Google Docs desktop app
+# Google Docs Desktop App
 
 _Coming soon_
